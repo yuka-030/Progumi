@@ -1,0 +1,44 @@
+# === 共通 === #
+# dependencies
+node_modules
+__pycache__
+*.pyc
+
+# build outputs
+.next
+dist
+build
+
+# logs
+*.log
+logs
+
+# env files
+.env
+.env.local
+.env.*.local
+
+# docker / git
+.git
+.gitignore
+docker-compose*.yml
+
+# IDE
+.vscode
+.idea
+
+# OS
+.DS_Store
+Thumbs.db
+
+# === フロントエンド専用 （Next.js）=== #
+.next
+out
+coverage
+
+# === バックエンド専用（FastAPI / Python）=== #
+.venv
+venv
+.env
+.pytest_cache
+.mypy_cache

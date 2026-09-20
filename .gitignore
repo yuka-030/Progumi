@@ -1,0 +1,37 @@
+# 共通（環境変数）
+.env
+.env.*
+!.env.example
+
+# Node
+node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Frontend (Next.js)
+.next
+out
+coverage
+
+# Backend (Python)
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+
+*.pyc
+*.pyo
+*.pyd
+
+htmlcov/
+.coverage
+
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+logs/
