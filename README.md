@@ -13,7 +13,7 @@
 ## デモ
 
 <p>
-  <a href=""><img src="docs/images/Progumi_top2.png" alt="Home" width="280" height="300"></a>
+  <a href=""><img src="docs/images/Progumi_top.png" alt="Home" width="280" height="300"></a>
   <a href=""><img src="docs/images/Progumi_trims.png" alt="用語集" width="280" height="300"></a>
   <a href=""><img src="docs/images/Progumi_history.png" alt="学種履歴" height="300"></a>
   <a href=""><img src="docs/images/Progumi_quiz_start.png" alt="クイズ開始" height="300"></a>
